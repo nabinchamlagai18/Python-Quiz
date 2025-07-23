@@ -1,2 +1,2 @@
 # Python-Quiz
-This is a ezz python game
+This is a ezz python quizz game
